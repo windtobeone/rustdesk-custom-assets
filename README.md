@@ -1,1 +1,1 @@
-# RustDesk Custom Assets Shadow Repository\n\nThis repository is used for temporary build asset buffers.
+# Custom Assets Shadow Repository.This repository is used for temporary build asset buffers.
